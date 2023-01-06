@@ -1,5 +1,5 @@
 function helloWorld() {
-	return "Hello World v2"
+	return "Hello World v3"
 }
 
 function HelloWorldNPM() {
